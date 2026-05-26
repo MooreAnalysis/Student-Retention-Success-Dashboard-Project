@@ -1,4 +1,5 @@
 ![Power BI](https://shields.io)
+
 ![Academic Analytics](https://shields.io)
 
 # Student-Retention-Success-Dashboard-Project
@@ -24,10 +25,12 @@ This project analyzes student retention, completion, GPA outcomes, and student s
 - Expand the dashboard to include demographic and longitudinal trend analysis across multiple academic terms.
 
 # Data Preparation
-- Imported and cleaned simulated higher education student data within Power BI Desktop.
-- Standardized data fields related to retention status, completion indicators, GPA values, and student support participation to ensure consistency across visualizations and KPI calculations.
-- Verified data types and formatted categorical and numerical variables appropriately for analysis and reporting.
-- Created calculated columns and DAX measures to support retention, completion, graduation, and GPA metrics.
+- Imported and cleaned a simulated higher education dataset in Power BI Desktop.
+- Fixed inconsistent program names, enrollment formats, and Yes/No values.
+- Removed duplicate records and handled missing GPA, tutoring, and financial aid data.
+- Standardized data types and formatting for accurate analysis and reporting.
+- Created DAX measures and calculated columns for retention, completion, graduation, and GPA metrics.
+- Prepared the dataset for interactive dashboards, filtering, and student success analysis.
 
 # Analytical Techniques
 - Descriptive analysis to evaulate student GPAs, completion rates
