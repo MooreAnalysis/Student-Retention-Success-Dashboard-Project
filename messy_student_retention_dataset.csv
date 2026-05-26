@@ -1,0 +1,309 @@
+StudentID,Term,Program,EnrollmentStatus,CreditsAttempted,CreditsCompleted,GPA,CompletedCourse,RetainedNextTerm,Graduated,AdvisingVisits,TutoringVisits,PeerMentorParticipation,AgeGroup,FirstGenerationStatus,FinancialAidStatus
+1001,Spring2024,Business Administration,Full-Time,18,12,1.73,Yes,Yes,no,2,4.0,Yes,23-27,No,
+1002,Fall2024,Psychology,Full-Time,14,0,3.47,No,No,Yes,3,4.0,No,23-27,Yes,Scholarship
+1003,Fall2023,Engineering,Part-Time,14,8,2.74,Yes,No,No,3,2.0,Yes,36-45,No,
+1004,Spring2025,Nursing,full time,16,14,,Yes,Yes,No,5,2.0,Yes,46+,No,Received
+1005,Fall2024,computer science,Part-Time,14,0,2.04,No,No,No,1,0.0,No,36-45,Yes,Scholarship
+1006,Spring2024,Education,Full-Time,18,6,2.22,Yes,YES,No,0,3.0,Yes,18-22,Yes,
+1007,Spring2025,Biology,Part-Time,14,10,2.7,Yes,Yes,No,2,3.0,Yes,28-35,No,Received
+1008,Spring2024,Nursing,full time,9,2,2.03,Yes,Yes,No,2,0.0,NO,18-22,Yes,
+1009,Fall2024,Marketing,Full-Time,9,7,2.75,Yes,Yes,No,0,0.0,Yes,28-35,No,Received
+1010,Spring2025,Marketing,Full-Time,15,4,2.07,Yes,No,Yes,4,5.0,Yes,18-22,Yes,Received
+1011,Spring2024,Mathematics,Full-Time,18,17,3.43,Yes,Yes,Yes,1,1.0,Yes,36-45,No,Received
+1012,Fall2023,ENG,Full-Time,9,5,3.91,Yes,Yes,No,3,0.0,No,46+,No,Received
+1013,Spring2024,Marketing,Full-Time,16,5,2.28,Yes,Yes,no,4,5.0,NO,28-35,Yes,Scholarship
+1014,Spring2024,Business Administration,full time,12,4,2.26,Yes,No,No,6,3.0,Yes,36-45,No,
+1015,Fall2023,History,Part-Time,12,7,1.63,yes,Yes,No,2,1.0,Yes,28-35,No,Received
+1016,Fall2023,History,Full-Time,14,1,1.92,Yes,Yes,No,2,0.0,No,23-27,Yes,
+1017,Fall2024,Psychology,Part time,18,3,3.26,yes,Yes,No,1,3.0,Yes,18-22,Yes,
+1018,Spring2025,History,Full-Time,18,2,3.64,Yes,Yes,No,2,4.0,No,23-27,Yes,Scholarship
+1019,Spring2025,Computer Science ,Part-Time,18,12,2.78,Yes,Yes,No,2,5.0,Yes,18-22,Yes,Received
+1020,Fall2023,Business Administration,Part-Time,16,1,2.84,Yes,Yes,No,4,2.0,Yes,18-22,Yes,
+1021,Spring2024,Computer Science,Part-Time,15,0,2.07,No,Yes,Yes,3,2.0,NO,28-35,Yes,Scholarship
+1022,Spring2025,Nursing,Part-Time,12,4,3.82,Yes,No,No,6,1.0,No,46+,Yes,Scholarship
+1023,Spring2025,Business Administration,Full-Time,6,2,2.46,Yes,No,No,4,0.0,Yes,18-22,No,
+1024,Fall2024,Mathematics,Full-Time,14,8,3.44,Yes,YES,No,0,4.0,Yes,46+,No,Scholarship
+1025,Spring2025,Biology,Part-Time,18,9,3.42,Yes,Yes,No,6,1.0,No,23-27,Yes,Scholarship
+1026,Fall2023,Engineering,Part time,16,10,,Yes,No,Yes,3,2.0,Yes,28-35,Yes,Scholarship
+1027,Spring2024,Biology,Full-Time,6,3,3.64,Yes,Yes,No,0,2.0,Yes,23-27,Yes,
+1028,Spring2024,Mathematics,Part-Time,16,3,3.85,Yes,Yes,No,3,2.0,No,23-27,Yes,
+1029,Spring2025,Biology,Part-Time,15,14,2.59,Yes,Yes,No,6,,NO,36-45,Yes,
+1030,Fall2023,Mathematics,full time,15,3,2.16,yes,No,No,3,,No,46+,No,Scholarship
+1031,Fall2024,Computer Science,full time,14,10,1.83,Yes,No,No,5,2.0,Yes,18-22,Yes,
+1032,Fall2024,Business Administration,Part time,16,11,1.75,Yes,No,No,5,4.0,Yes,18-22,No,Scholarship
+1033,Fall2023,Engineering,Part-Time,6,4,2.88,Yes,Yes,No,0,1.0,No,18-22,No,Scholarship
+1034,Spring2025 ,Education,Full-Time,6,2,3.62,Yes,Yes,No,2,1.0,Y,23-27,No,Received
+1035,Fall2024,Nursing,Full-Time,16,9,2.64,Yes,Yes,No,2,5.0,No,18-22,Yes,
+1036,Spring2024,Marketing,full time,9,4,3.27,Yes,No,No,1,3.0,Y,36-45,Yes,
+1037,Spring2024,Education,Full-Time,16,14,3.48,Yes,Yes,No,6,3.0,No,36-45,Yes,Received
+1038,Spring2024,Biology,Full-Time,9,5,3.21,Yes,Yes,No,3,3.0,No,46+,Yes,Scholarship
+1039,Spring2024,Education,Full-Time,6,4,3.36,Yes,Yes,No,6,0.0,NO,18-22,Yes,Received
+1040,Spring2024,Mathematics,Full-Time,9,2,2.4,Yes,Yes,No,5,1.0,Yes,28-35,No,
+1041,Fall2023,Education,Full-Time,16,0,1.69,No,Yes,No,0,2.0,No,28-35,Yes,
+1042,Fall2023,Business Administration,Part-Time,9,0,3.62,No,Yes,No,0,5.0,Yes,46+,No,Scholarship
+1043,Spring2025,Engineering,Full-Time,12,6,3.95,Yes,No,No,2,,No,23-27,Yes,Received
+1044,Fall2023 ,Biology,Full-Time,6,4,2.72,Yes,Yes,No,0,3.0,NO,23-27,Yes,Received
+1045,Spring2024,Computer Science,Full-Time,9,6,3.29,Yes,Yes,No,6,3.0,No,36-45,Yes,Scholarship
+1046,Spring2025,Psychology,Part-Time,6,6,3.33,Yes,Yes,No,2,2.0,No,36-45,Yes,Scholarship
+1047,Fall2024,Mathematics,Part-Time,6,5,2.72,Yes,Yes,No,4,1.0,No,18-22,Yes,Received
+1048,Fall2023 ,Computer Science,Full-Time,14,4,1.96,Yes,No,No,0,5.0,No,23-27,No,
+1049,Spring2024 ,Computer Science,Full-Time,14,9,3.37,Yes,Yes,No,3,1.0,No,36-45,Yes,Received
+1050,Fall2023,Engineering,Full-Time,15,5,3.73,Yes,No,No,6,5.0,No,18-22,No,Scholarship
+1051,Spring2025 ,Education,Part-Time,12,7,3.92,Yes,Yes,No,1,4.0,No,46+,No,Received
+1052,Fall2023,History,Full-Time,9,3,1.89,Yes,Yes,no,6,0.0,Yes,36-45,Yes,Received
+1053,Fall2023,Psychology,Full-Time,6,2,3.57,yes,No,No,6,2.0,Yes,28-35,No,Received
+1054,Spring2025 ,Computer Science,Part-Time,12,12,1.93,yes,No,No,4,5.0,Yes,36-45,Yes,Scholarship
+1055,Fall2023,Computer Science,Part-Time,12,4,,Yes,No,No,3,,Yes,18-22,Yes,Received
+1056,Spring2024,Business Administration,Full-Time,6,3,3.04,Yes,No,No,3,0.0,No,23-27,Yes,Scholarship
+1057,Fall2023 ,Computer Science,Part-Time,14,2,2.07,Yes,No,No,1,1.0,Yes,46+,Yes,
+1058,Fall2024,Nursing,Full-Time,12,5,3.3,Yes,No,No,0,3.0,No,28-35,Yes,
+1059,Spring2025,Mathematics,Part-Time,12,6,1.87,yes,No,No,2,3.0,No,36-45,No,
+1060,Spring2025,Marketing,Full-Time,12,6,3.5,Yes,Yes,No,3,2.0,No,18-22,Yes,Received
+1061,Spring2024,Business Administration,Full-Time,15,2,3.76,Yes,No,No,4,4.0,No,18-22,Yes,Scholarship
+1062,Fall2023,Marketing,Part time,16,12,,yes,No,No,3,1.0,Y,36-45,No,
+1063,Fall2023 ,Biology,Full-Time,6,4,2.96,yes,Yes,No,5,4.0,Yes,36-45,No,Received
+1064,Spring2025,Business Administration,Full-Time,6,4,3.12,Yes,Yes,No,4,3.0,No,46+,Yes,Scholarship
+1065,Fall2024,Mathematics,Full-Time,16,1,2.78,Yes,YES,No,6,5.0,No,18-22,Yes,Received
+1066,Fall2023,History,Part time,15,6,3.67,Yes,Yes,No,0,5.0,NO,23-27,No,Received
+1067,Fall2024,Mathematics,Full-Time,6,3,2.74,Yes,YES,no,6,3.0,No,18-22,Yes,Received
+1068,Spring2025,Engineering,Part time,15,6,2.0,Yes,No,No,5,4.0,No,36-45,Yes,Scholarship
+1069,Spring2025,Biology,Full-Time,18,15,2.21,Yes,Yes,No,2,2.0,No,36-45,No,
+1070,Spring2025,History,Full-Time,16,5,2.5,Yes,YES,No,6,4.0,Y,23-27,Yes,Received
+1071,Fall2024,engineering ,Part-Time,14,1,3.51,Yes,Yes,no,0,4.0,Yes,23-27,No,Received
+1072,Spring2024,History,Part-Time,18,11,3.49,Yes,Yes,No,3,2.0,No,36-45,No,Scholarship
+1073,Fall2024,Psychology,Full-Time,15,0,3.79,No,Yes,No,3,1.0,No,46+,No,
+1074,Fall2023,BUSINESS ADMINISTRATION,Part-Time,9,6,1.83,Yes,No,No,2,4.0,Yes,23-27,No,Received
+1075,Spring2025,Engineering,Part-Time,9,2,2.34,Yes,Yes,No,1,4.0,Yes,46+,No,Received
+1076,Spring2025,Psychology,Part-Time,15,13,2.13,Yes,Yes,no,4,,No,46+,Yes,Scholarship
+1077,Spring2025,Biology,Full-Time,14,11,3.17,Yes,Yes,No,3,,Yes,18-22,Yes,Scholarship
+1078,Fall2023,Mathematics,Part-Time,16,4,2.71,Yes,No,No,5,5.0,Yes,36-45,Yes,Received
+1079,Spring2024,Education,Part-Time,16,12,3.72,Yes,Yes,Yes,5,3.0,No,36-45,Yes,Received
+1080,Fall2023,Marketing,Full-Time,12,2,1.72,Yes,No,No,4,2.0,No,36-45,Yes,
+1081,Spring2025,Education,Part-Time,14,12,1.96,yes,No,No,1,4.0,Yes,18-22,No,
+1082,Spring2024,Business Administration,Part-Time,14,1,2.79,Yes,No,Yes,3,5.0,Yes,23-27,No,Received
+1083,Fall2024,Psychology,Part-Time,16,15,2.31,Yes,Yes,No,3,4.0,Yes,46+,Yes,
+1084,Fall2024,Business Administration,Part time,15,14,3.38,Yes,Yes,No,5,1.0,No,36-45,No,
+1085,Fall2023,Mathematics,Part time,6,4,3.36,Yes,Yes,no,1,0.0,No,28-35,Yes,Scholarship
+1086,Spring2024,Psychology,Full-Time,14,8,2.86,Yes,No,No,5,3.0,No,46+,No,
+1087,Spring2024,Business Administration,Full-Time,16,13,1.71,Yes,Yes,No,3,4.0,Yes,46+,Yes,Scholarship
+1088,Spring2024,Nursing,Part-Time,12,3,2.68,Yes,No,no,1,0.0,NO,28-35,No,Scholarship
+1089,Fall2023,Biology,Part-Time,6,3,1.83,Yes,YES,No,4,1.0,No,23-27,No,Received
+1090,Spring2025,Psychology,full time,15,7,3.4,Yes,No,No,3,0.0,Yes,23-27,Yes,Received
+1091,Spring2025,Nursing ,Part-Time,6,1,3.95,Yes,No,No,1,4.0,No,36-45,Yes,Received
+1092,Fall2024,Engineering,full time,12,3,1.8,Yes,N,No,3,2.0,No,36-45,No,Received
+1093,Fall2024,Mathematics,Full-Time,14,1,2.14,Yes,No,no,4,3.0,No,28-35,Yes,
+1094,Fall2023,Nursing,Part-Time,18,10,2.68,Yes,No,No,2,4.0,Yes,18-22,No,Received
+1095,Spring2025,Education,full time,16,14,3.82,Yes,YES,Yes,3,3.0,Y,23-27,No,Received
+1096,Fall2024,Mathematics,Full-Time,14,3,1.77,Yes,Yes,no,0,2.0,NO,28-35,No,
+1097,Spring2025,Computer Science,Full-Time,12,0,2.84,No,YES,No,5,4.0,Yes,18-22,No,
+1098,Fall2023,Engineering,Part-Time,9,3,3.18,Yes,No,Yes,2,3.0,No,46+,No,Received
+1099,Fall2023,Business Administration,full time,16,2,1.99,Yes,No,Y,6,5.0,No,23-27,Yes,Scholarship
+1100,Spring2025,Engineering,full time,15,12,3.66,Yes,Yes,No,1,2.0,No,28-35,No,Scholarship
+1101,Spring2024,Psychology,Full-Time,15,4,3.79,Yes,Yes,No,5,0.0,Yes,46+,No,Received
+1102,Spring2025,Computer Science,Full-Time,12,12,2.24,Yes,No,No,4,5.0,No,28-35,Yes,
+1103,Fall2024 ,Marketing,Full-Time,16,16,2.97,Yes,Yes,No,0,4.0,Yes,46+,No,Received
+1104,Fall2024,Mathematics,Part-Time,18,7,2.0,Yes,Yes,No,5,1.0,No,18-22,No,
+1105,Spring2025,Education,Full-Time,9,0,3.27,No,No,no,3,3.0,No,46+,Yes,Scholarship
+1106,Spring2025,Mathematics,Full-Time,14,10,2.97,Yes,Yes,No,0,2.0,Yes,36-45,Yes,Scholarship
+1107,Spring2024 ,Education,Part-Time,14,1,2.91,Yes,Yes,No,0,4.0,No,36-45,No,
+1108,Spring2025,Nursing,Full-Time,12,6,3.98,Yes,No,no,5,2.0,No,36-45,No,Scholarship
+1109,Fall2023,Engineering,Full-Time,6,3,2.99,Yes,Yes,No,6,2.0,Yes,36-45,No,
+1110,Fall2023,Education,Part time,12,12,,Yes,Yes,No,2,0.0,No,18-22,Yes,Scholarship
+1111,Fall2024,business administration,Full-Time,16,6,2.87,yes,Yes,No,0,0.0,No,36-45,No,
+1112,Spring2025,Computer Science,Part-Time,14,6,,yes,Yes,No,6,2.0,Yes,28-35,Yes,
+1113,Spring2025,Mathematics,Full-Time,14,14,3.48,Yes,Yes,No,0,0.0,No,23-27,No,Received
+1114,Fall2024,Psychology,full time,18,14,2.7,yes,Yes,No,5,2.0,No,23-27,No,
+1115,Fall2023,Psychology,Full-Time,15,11,1.54,Yes,No,no,3,,Y,46+,Yes,Received
+1116,Spring2025,Nursing,Part time,6,2,1.97,Yes,Yes,No,5,1.0,Yes,23-27,No,Scholarship
+1117,Spring2025,History,Full-Time,9,9,2.59,Yes,Yes,No,1,2.0,Yes,18-22,Yes,Scholarship
+1118,Fall2024,Nursing,Part-Time,16,3,3.68,Yes,Yes,No,2,3.0,Yes,18-22,Yes,Received
+1119,Fall2024,Computer Science,Part time,18,2,3.22,Yes,Yes,No,5,4.0,No,36-45,Yes,Received
+1120,Fall2023,Education,Part-Time,12,3,3.88,Yes,No,No,1,4.0,No,46+,Yes,
+1121,Fall2024,Business Administration,Full-Time,15,2,2.62,Yes,No,No,4,4.0,Yes,23-27,No,
+1122,Fall2024,Engineering,Part-Time,12,12,1.94,Yes,No,No,5,4.0,No,36-45,Yes,Received
+1123,Spring2025,Mathematics,Full-Time,16,2,2.6,yes,No,No,1,2.0,No,36-45,No,Scholarship
+1124,Spring2024,Biology,Full-Time,18,7,1.9,Yes,No,No,1,5.0,No,28-35,Yes,Scholarship
+1125,Fall2024,Psychology,Part-Time,9,6,3.35,Yes,Yes,no,5,2.0,NO,18-22,No,Received
+1126,Spring2025,Marketing,Full-Time,12,10,1.98,Yes,No,No,6,0.0,NO,36-45,No,Received
+1127,Spring2024,Computer Science,Full-Time,6,0,,N,Yes,No,1,4.0,No,36-45,Yes,Received
+1128,Spring2025,computer science,full time,12,8,3.21,Yes,Yes,No,5,3.0,No,46+,No,
+1129,Fall2023,History,Part-Time,9,9,2.59,Yes,Yes,No,6,0.0,Yes,28-35,No,Received
+1130,Spring2025,Biology,Part-Time,16,16,1.78,Yes,No,No,4,2.0,Yes,23-27,Yes,Received
+1131,Fall2023,History,Full-Time,15,15,3.86,Yes,Yes,Yes,2,4.0,No,28-35,No,Received
+1132,Fall2024,Business Administration,Part-Time,18,16,2.85,Yes,Yes,Yes,6,3.0,Yes,46+,No,
+1133,Spring2024 ,Computer Science,Part-Time,9,4,3.79,yes,No,No,5,1.0,Yes,36-45,Yes,Received
+1134,Spring2024,Biology,Full-Time,12,2,3.84,Yes,Yes,No,3,4.0,No,18-22,No,
+1135,Fall2023 ,History,Part time,12,3,3.24,Yes,YES,No,5,3.0,Yes,18-22,Yes,
+1136,Spring2024,Biology,Full-Time,15,11,2.64,Yes,Yes,No,5,0.0,Yes,46+,Yes,Received
+1137,Spring2025,Business Administration,Full-Time,18,12,,Yes,Yes,No,2,4.0,NO,36-45,Yes,
+1138,Fall2024,Education,Part-Time,9,4,3.02,Yes,Yes,No,6,3.0,Y,28-35,Yes,Scholarship
+1139,Fall2023,Engineering,Part-Time,9,4,2.73,Yes,Yes,No,2,0.0,No,18-22,Yes,Received
+1140,Spring2024,Education,Part-Time,6,0,2.56,N,No,Yes,0,1.0,No,36-45,Yes,Scholarship
+1141,Spring2024,Engineering,full time,18,7,2.39,Yes,Yes,No,5,0.0,No,46+,Yes,Received
+1142,Fall2023,Computer Science,Part-Time,9,1,3.21,Yes,Yes,No,0,3.0,No,28-35,No,Scholarship
+1143,Fall2024,Computer Science,Part-Time,15,1,3.9,Yes,No,No,3,3.0,Yes,18-22,Yes,Scholarship
+1144,Spring2025,Computer Science,Full-Time,14,1,1.73,Yes,No,No,2,2.0,No,23-27,Yes,Scholarship
+1145,Fall2024,History,full time,15,13,1.89,Yes,Yes,No,5,1.0,No,23-27,Yes,
+1146,Fall2023,Education,Part-Time,18,2,2.03,Yes,No,Yes,6,3.0,No,28-35,Yes,Received
+1147,Spring2024,Education,Part-Time,15,10,2.6,Yes,Yes,No,2,0.0,No,23-27,No,Scholarship
+1148,Spring2024,Nursing ,Part-Time,9,9,3.35,Yes,YES,No,5,1.0,No,18-22,No,Received
+1149,Fall2023,Marketing,Part-Time,16,6,3.63,yes,Yes,No,0,2.0,No,23-27,No,Received
+1150,Spring2024 ,Engineering,Part-Time,6,3,2.8,Yes,Yes,No,3,5.0,Yes,18-22,Yes,
+1151,Spring2025,Marketing,Full-Time,6,6,1.85,Yes,N,No,6,5.0,Yes,36-45,No,Scholarship
+1152,Spring2024,Nursing,Part-Time,6,5,3.32,Yes,YES,No,5,2.0,No,46+,No,Scholarship
+1153,Spring2024,Business Administration,Part-Time,15,4,2.46,Yes,N,No,3,5.0,Yes,46+,No,Received
+1154,Fall2023,Engineering,Part-Time,15,10,2.43,Yes,YES,No,0,0.0,No,36-45,Yes,
+1155,Fall2023,Computer Science,Part time,15,8,1.92,Yes,Yes,no,4,2.0,No,36-45,No,Scholarship
+1156,Spring2024,Nursing,Full-Time,6,6,,yes,Yes,No,0,0.0,No,46+,Yes,Received
+1157,Fall2023,History,Part-Time,15,9,3.37,yes,Yes,No,3,3.0,No,23-27,Yes,Scholarship
+1158,Fall2023,Nursing,Part-Time,15,11,1.56,Yes,No,No,1,3.0,Yes,46+,Yes,Received
+1159,Fall2023,Biology,Full-Time,14,0,3.29,No,N,No,1,1.0,No,23-27,No,Received
+1160,Fall2024 ,Computer Science,Part-Time,14,4,3.41,Yes,Yes,Yes,0,3.0,Yes,46+,Yes,Received
+1161,Fall2023,Nursing,Full-Time,16,2,2.65,yes,Yes,Yes,0,5.0,Y,18-22,Yes,Received
+1162,Spring2024,Marketing,Part-Time,14,8,2.11,Yes,No,No,1,0.0,NO,18-22,No,Scholarship
+1163,Fall2024,Nursing,Part-Time,14,3,1.5,Yes,Yes,No,4,4.0,No,18-22,No,
+1164,Fall2024,History,Part-Time,16,16,3.45,Yes,Yes,No,4,0.0,No,18-22,No,Scholarship
+1165,Fall2024,Marketing,Full-Time,15,5,1.62,Yes,Yes,No,2,5.0,No,23-27,Yes,Received
+1166,Spring2025,Education,Part-Time,15,8,,Yes,No,No,5,4.0,No,28-35,Yes,Received
+1167,Fall2023,Engineering,Full-Time,14,11,1.91,Yes,Yes,No,4,3.0,Yes,28-35,No,Received
+1168,Spring2024 ,engineering ,Full-Time,14,5,3.13,Yes,No,No,3,3.0,Yes,28-35,Yes,Received
+1169,Fall2024 ,History,Part-Time,12,4,3.77,Yes,Yes,No,1,3.0,NO,23-27,No,
+1170,Spring2024,Marketing,Part-Time,6,0,2.25,No,Yes,No,4,0.0,Yes,28-35,No,Received
+1171,Fall2024,Marketing,Part-Time,6,3,2.94,Yes,No,No,3,3.0,Yes,23-27,Yes,Scholarship
+1172,Spring2024,Nursing,Full-Time,18,16,3.97,yes,Yes,No,5,1.0,Yes,18-22,Yes,Scholarship
+1173,Spring2024,Biology,Full-Time,16,14,3.16,Yes,YES,No,4,5.0,Yes,46+,Yes,
+1174,Spring2025,Marketing,full time,6,0,1.72,No,No,No,4,4.0,No,23-27,No,
+1175,Spring2024,Business Administration,Part-Time,15,15,3.55,Yes,Yes,No,0,3.0,No,18-22,Yes,
+1176,Fall2024,Psychology,full time,16,15,3.75,Yes,Yes,No,5,0.0,No,28-35,Yes,
+1177,Spring2025,BUSINESS ADMINISTRATION,Full-Time,9,9,3.56,Yes,Yes,No,0,3.0,NO,23-27,No,Scholarship
+1178,Spring2024,Biology,Part time,12,8,2.0,Yes,No,No,4,3.0,Yes,46+,Yes,
+1179,Fall2023,Psychology,Full-Time,9,3,3.81,Yes,No,No,1,2.0,No,18-22,Yes,Received
+1180,Fall2023,Engineering,Full-Time,14,13,3.32,Yes,Yes,No,5,2.0,NO,18-22,Yes,Received
+1181,Spring2025,Engineering,Part-Time,9,8,3.43,Yes,Yes,no,5,2.0,Yes,36-45,Yes,
+1182,Spring2024,History,Part-Time,12,1,2.51,yes,Yes,Yes,1,2.0,No,18-22,Yes,
+1183,Fall2023,Education,Part-Time,15,6,2.92,Yes,N,No,4,0.0,Yes,46+,No,Received
+1184,Fall2023,History,Part-Time,18,5,,Yes,No,No,6,5.0,Yes,28-35,Yes,Scholarship
+1185,Spring2025,Comp Sci,full time,18,18,2.78,Yes,Yes,No,5,5.0,No,23-27,Yes,Received
+1186,Fall2023,Mathematics,Part-Time,12,3,2.7,Yes,No,No,5,3.0,Yes,46+,Yes,Scholarship
+1187,Fall2024 ,Biology,Part-Time,6,6,,Yes,Yes,no,6,5.0,Yes,46+,No,
+1188,Fall2024,Education,Full-Time,15,0,3.34,No,No,No,2,4.0,Yes,28-35,No,Received
+1189,Fall2023,Nursing,Full-Time,6,4,2.05,Yes,No,No,1,3.0,No,46+,No,
+1190,Spring2024,Marketing,Full-Time,16,4,3.27,Yes,No,No,2,1.0,No,18-22,No,Received
+1191,Fall2023,Nursing,Part-Time,9,7,1.72,yes,Yes,No,3,2.0,Yes,18-22,No,
+1192,Fall2023,Psych,Full-Time,18,6,1.84,Yes,No,No,2,0.0,Yes,28-35,No,Received
+1193,Fall2023,Marketing,Full-Time,16,7,2.18,Yes,No,No,6,5.0,Yes,46+,Yes,
+1194,Fall2024,Engineering,full time,14,6,2.95,Yes,No,Yes,1,3.0,No,36-45,Yes,Received
+1195,Fall2023,Business Administration,Full-Time,6,3,3.07,Yes,No,Yes,1,3.0,Yes,46+,No,
+1196,Spring2025,History,Part-Time,16,6,2.64,Yes,YES,No,1,3.0,Yes,23-27,Yes,
+1197,Fall2023,Engineering,Part time,9,0,2.36,No,No,No,2,4.0,No,36-45,No,Received
+1198,Spring2025,Engineering,Full-Time,14,10,3.92,Yes,Yes,No,4,1.0,Yes,18-22,No,Scholarship
+1199,Fall2023 ,Marketing,Part-Time,9,9,2.97,yes,Yes,No,6,5.0,No,23-27,No,Received
+1200,Fall2024 ,Business Administration,Part-Time,16,2,3.63,Yes,No,Yes,5,4.0,Yes,46+,Yes,Received
+1201,Spring2024,Computer Science,Part-Time,15,2,,Yes,No,no,2,0.0,Yes,18-22,No,
+1202,Fall2024,Business Administration,Part time,9,8,3.34,Yes,Yes,No,0,4.0,No,36-45,Yes,Scholarship
+1203,Fall2023,Education,Part-Time,16,8,1.73,Yes,No,No,1,2.0,No,28-35,Yes,Scholarship
+1204,Spring2024,Marketing,full time,9,9,3.79,Yes,Yes,No,4,3.0,Yes,23-27,Yes,Scholarship
+1205,Fall2024,Engineering,Part-Time,9,8,1.84,yes,No,No,0,4.0,Yes,36-45,No,
+1206,Fall2023,Engineering,Full-Time,9,6,1.89,Yes,Yes,No,1,1.0,No,46+,Yes,
+1207,Fall2024,Mathematics,Part-Time,12,6,1.69,Yes,No,no,4,,No,28-35,No,
+1208,Fall2024,Marketing,Full-Time,6,2,2.64,Yes,No,No,6,2.0,Y,46+,Yes,Received
+1209,Spring2024,Mathematics,Part-Time,18,0,3.2,No,No,No,6,0.0,Yes,46+,Yes,Scholarship
+1210,Fall2024,Engineering,Full-Time,18,12,2.06,Yes,Yes,No,1,1.0,Yes,18-22,No,Scholarship
+1211,Fall2024,Education,Full-Time,12,9,2.19,yes,YES,No,2,1.0,NO,18-22,Yes,Scholarship
+1212,Fall2023,Education,Part time,12,8,1.75,Yes,No,Yes,5,5.0,No,36-45,Yes,Received
+1213,Spring2025,Marketing,Part-Time,6,4,3.77,Yes,Yes,No,4,1.0,No,23-27,Yes,Scholarship
+1214,Fall2024,ENG,Part-Time,12,10,1.69,Yes,YES,no,5,1.0,No,28-35,Yes,Received
+1215,Fall2023,Psychology,Part-Time,12,9,1.82,Yes,Yes,No,3,5.0,No,46+,No,Received
+1216,Fall2023,Psychology,full time,16,12,2.84,Yes,YES,No,6,2.0,Yes,28-35,No,Received
+1217,Fall2023,Computer Science,Full-Time,9,2,1.71,Yes,Yes,No,0,1.0,NO,28-35,No,
+1218,Fall2024,Biology,Part time,16,14,1.59,Yes,Yes,Yes,0,3.0,Yes,36-45,No,
+1219,Fall2023,Education,Part-Time,15,11,2.0,Yes,Yes,No,6,5.0,No,36-45,Yes,Scholarship
+1220,Spring2024,Nursing,Full-Time,18,18,3.75,Yes,Yes,No,3,3.0,No,36-45,Yes,Received
+1221,Spring2025,History,Full-Time,15,12,3.07,Yes,Yes,no,0,3.0,No,36-45,Yes,Received
+1222,Fall2024,engineering ,Full-Time,6,6,2.03,Yes,YES,No,5,0.0,Yes,28-35,Yes,Received
+1223,Spring2025,Education,Full-Time,6,5,3.97,Yes,YES,No,3,0.0,Yes,36-45,Yes,Received
+1224,Spring2025,Engineering,Part-Time,14,11,2.05,Yes,Yes,no,2,1.0,Yes,28-35,No,
+1225,Fall2023,Education,Full-Time,12,9,1.54,Yes,No,No,3,5.0,No,46+,No,Received
+1226,Fall2023,Psychology,Full-Time,14,10,1.55,Yes,YES,No,2,5.0,No,18-22,No,
+1227,Fall2023,Mathematics,Full-Time,12,8,1.7,Yes,Yes,No,5,,Yes,23-27,No,
+1228,Spring2024 ,Mathematics,Part time,14,6,3.54,Yes,N,No,1,1.0,Yes,23-27,No,
+1229,Spring2025,psychology,Part-Time,14,3,2.03,Yes,Yes,No,3,4.0,No,46+,No,Received
+1230,Fall2023,Biology,Part time,12,9,,Yes,Yes,No,2,2.0,No,28-35,Yes,Received
+1231,Fall2023,Education,full time,15,8,3.81,Yes,No,No,5,1.0,No,36-45,Yes,Received
+1232,Fall2024,Psychology,Full-Time,9,9,3.27,Yes,Yes,No,5,,NO,23-27,No,
+1233,Spring2024,Mathematics,Part-Time,14,14,3.36,Yes,Yes,No,3,0.0,Yes,28-35,No,Received
+1234,Spring2024,Marketing,Part-Time,18,3,2.02,Yes,N,No,3,5.0,Yes,18-22,No,
+1235,Fall2023,Business Administration,Full-Time,12,10,3.89,Yes,Yes,No,6,1.0,No,36-45,No,Scholarship
+1236,Fall2023,Nursing,Full-Time,6,6,1.66,Yes,No,No,1,0.0,No,28-35,No,Received
+1237,Spring2024,Nursing,Part-Time,6,2,3.89,Yes,No,No,3,5.0,Yes,28-35,No,Received
+1238,Fall2024,Business Administration,Part-Time,9,3,3.53,Yes,Yes,No,0,0.0,Yes,18-22,No,
+1239,Spring2024,Engineering,Full-Time,18,12,2.01,Yes,Yes,no,1,1.0,No,23-27,Yes,
+1240,Spring2025,Psychology,Part-Time,15,2,3.71,Yes,No,Yes,5,0.0,No,28-35,No,
+1241,Spring2024 ,Nursing,Part-Time,14,1,3.25,Yes,Yes,No,4,0.0,Yes,36-45,Yes,Scholarship
+1242,Spring2025,Psychology,full time,6,3,3.03,Yes,Yes,No,2,3.0,No,36-45,Yes,Scholarship
+1243,Fall2023,Education,Part-Time,6,4,1.83,yes,YES,No,1,4.0,Yes,46+,No,Scholarship
+1244,Fall2023,Engineering,Part-Time,12,7,3.46,Yes,No,No,5,2.0,No,28-35,Yes,
+1245,Fall2024 ,Mathematics,Part-Time,9,7,3.11,Yes,Yes,No,5,0.0,No,28-35,No,
+1246,Spring2025,Mathematics,Full-Time,9,9,,Yes,No,No,6,4.0,No,46+,Yes,Scholarship
+1247,Fall2024,Psychology,Full-Time,16,16,1.93,Yes,Yes,No,3,5.0,Yes,23-27,No,
+1248,Fall2023,Mathematics,Part-Time,14,5,2.63,Yes,YES,No,5,0.0,Yes,46+,No,
+1249,Spring2025 ,History,Part time,18,2,1.99,Yes,No,No,0,,Yes,28-35,Yes,Received
+1250,Spring2025,Computer Science,Part-Time,14,10,1.72,yes,Yes,No,4,5.0,NO,23-27,No,
+1251,Spring2025,Business Administration,Part-Time,12,2,1.59,Yes,Yes,No,4,5.0,No,36-45,Yes,
+1252,Spring2025,Biology,Part time,12,8,1.6,Yes,No,No,3,4.0,No,23-27,Yes,
+1253,Spring2024,Engineering,Part-Time,12,2,2.14,Yes,Yes,No,5,1.0,Yes,28-35,No,Scholarship
+1254,Fall2024,Engineering,Part-Time,16,1,3.71,Yes,No,No,2,3.0,Yes,36-45,Yes,Scholarship
+1255,Spring2024,Computer Science,Part time,12,7,1.8,Yes,Yes,No,4,2.0,No,28-35,Yes,Received
+1256,Fall2024,History,Full-Time,16,0,2.58,No,No,No,6,2.0,Yes,23-27,No,
+1257,Spring2025,Biology,full time,12,7,3.52,Yes,No,No,3,5.0,Yes,23-27,Yes,Received
+1258,Fall2023,Mathematics,Full-Time,14,6,3.07,Yes,Yes,No,4,4.0,No,23-27,No,Scholarship
+1259,Fall2023,Education,Full-Time,18,6,3.71,Yes,Yes,No,5,4.0,Yes,36-45,Yes,Received
+1260,Fall2024,Psychology,full time,15,14,2.45,Yes,Yes,No,3,5.0,No,28-35,No,Received
+1261,Fall2024,Marketing,Part-Time,6,3,2.81,yes,Yes,No,5,,No,23-27,No,
+1262,Fall2023,Computer Science,Part-Time,15,10,3.44,Yes,Yes,No,0,3.0,No,28-35,No,
+1263,Fall2023,Marketing,Part-Time,9,8,3.7,Yes,YES,No,0,1.0,Yes,18-22,No,
+1264,Spring2024,Mathematics,Part-Time,9,1,2.29,Yes,Yes,No,1,0.0,No,23-27,Yes,
+1265,Fall2024,Engineering,Part-Time,16,15,3.85,Yes,Yes,No,1,1.0,No,28-35,No,
+1266,Spring2025,Marketing,Part-Time,6,3,3.13,Yes,No,No,4,5.0,Yes,46+,Yes,Received
+1267,Fall2024,History,full time,12,0,3.05,No,Yes,No,2,0.0,No,28-35,No,
+1268,Spring2024,Nursing,Part-Time,9,0,2.39,N,Yes,No,1,,Yes,18-22,No,
+1269,Spring2024,Psychology,Full-Time,14,9,2.57,Yes,Yes,No,4,2.0,Yes,23-27,Yes,Scholarship
+1270,Spring2024,Psychology,Part-Time,12,9,2.14,Yes,No,no,4,3.0,NO,18-22,Yes,Received
+1271,Spring2025,Nursing,Full-Time,14,10,1.78,Yes,Yes,no,0,3.0,No,23-27,Yes,
+1272,Spring2025 ,Education,Part-Time,15,11,2.9,Yes,YES,No,1,4.0,Yes,36-45,Yes,Scholarship
+1273,Fall2024,Engineering,Part-Time,14,14,3.57,Yes,YES,No,0,4.0,Yes,18-22,Yes,Scholarship
+1274,Spring2024 ,Psychology,Part-Time,12,0,2.92,No,YES,no,3,5.0,Yes,23-27,No,Scholarship
+1275,Spring2025,Biology,Part-Time,14,8,3.89,Yes,Yes,No,3,0.0,Yes,28-35,No,
+1276,Fall2023,business administration,Full-Time,18,7,1.59,Yes,Yes,No,0,5.0,No,46+,No,Scholarship
+1277,Spring2025,Psychology,Part-Time,14,10,3.29,Yes,Yes,No,4,,No,18-22,Yes,Scholarship
+1278,Spring2024,Psychology,Full-Time,9,2,3.01,Yes,Yes,no,5,4.0,Yes,46+,No,
+1279,Fall2024,Nursing,Full-Time,12,8,2.52,Yes,YES,No,5,3.0,Yes,23-27,Yes,Scholarship
+1280,Spring2024,History,Part-Time,16,9,3.96,Yes,Yes,No,0,1.0,Yes,18-22,No,Received
+1281,Fall2024,Biology,Part-Time,9,6,2.01,yes,Yes,no,1,5.0,NO,18-22,No,Scholarship
+1282,Fall2023,Mathematics,full time,18,18,3.99,Yes,YES,No,1,3.0,Y,28-35,Yes,
+1283,Spring2024,Marketing,Full-Time,16,8,3.03,yes,Yes,no,0,0.0,NO,36-45,No,Received
+1284,Spring2025,Nursing,Part-Time,9,6,2.19,yes,No,no,6,5.0,Yes,46+,Yes,
+1285,Spring2024,History,full time,12,6,1.56,Yes,Yes,No,4,3.0,Yes,28-35,No,Received
+1286,Fall2024,Business Administration,Part-Time,15,2,3.25,yes,Yes,Yes,6,4.0,No,28-35,Yes,Scholarship
+1287,Spring2024,Computer Science,Part time,16,4,2.43,Yes,Yes,no,5,5.0,Yes,36-45,No,Scholarship
+1288,Fall2023,Mathematics,Full-Time,18,7,1.63,Yes,Yes,Yes,5,4.0,No,46+,Yes,Scholarship
+1289,Fall2023,Education,Full-Time,15,8,3.86,Yes,Yes,Y,4,3.0,NO,46+,No,
+1290,Spring2024,Mathematics,Full-Time,15,13,2.94,yes,Yes,No,1,5.0,Yes,46+,No,Scholarship
+1291,Spring2025,Psychology,Full-Time,14,2,1.8,Yes,YES,No,5,2.0,Yes,23-27,No,
+1292,Fall2024,Mathematics,Full-Time,18,7,2.57,Yes,No,No,0,0.0,Y,18-22,No,Scholarship
+1293,Fall2023,Education,Part-Time,16,8,1.8,yes,Yes,No,0,1.0,No,46+,No,
+1294,Spring2024,Nursing ,Part-Time,15,2,3.47,Yes,Yes,no,2,4.0,No,46+,Yes,Scholarship
+1295,Fall2023,Mathematics,Full-Time,14,9,2.49,Yes,Yes,no,5,3.0,Yes,28-35,Yes,Scholarship
+1296,Spring2024,Marketing,Full-Time,16,14,1.99,Yes,No,No,4,3.0,Yes,28-35,No,Received
+1297,Fall2024,History,Full-Time,12,11,3.19,Yes,Yes,No,5,,No,28-35,Yes,Received
+1298,Fall2023,psychology,Part-Time,9,7,2.58,Yes,Yes,No,6,5.0,Y,23-27,Yes,Scholarship
+1299,Fall2023,Education,Full-Time,16,5,1.67,Yes,Yes,no,5,4.0,No,23-27,Yes,
+1300,Fall2024,Mathematics,Full-Time,15,3,2.17,Yes,Yes,Yes,4,3.0,No,18-22,No,Scholarship
+1294,Spring2024,Nursing ,Part-Time,15,2,3.47,Yes,Yes,no,2,4.0,No,46+,Yes,Scholarship
+1167,Fall2023,Engineering,Full-Time,14,11,1.91,Yes,Yes,No,4,3.0,Yes,28-35,No,Received
+1019,Spring2025,Computer Science ,Part-Time,18,12,2.78,Yes,Yes,No,2,5.0,Yes,18-22,Yes,Received
+1044,Fall2023,Biology,Full-Time,6,4,2.72,Yes,Yes,No,0,3.0,NO,23-27,Yes,Received
+1242,Spring2025,Psychology,full time,6,3,3.03,Yes,Yes,No,2,3.0,No,36-45,Yes,Scholarship
+1193,Fall2023,Marketing,Full-Time,16,7,2.18,Yes,No,No,6,5.0,Yes,46+,Yes,
+1148,Spring2024,Nursing ,Part-Time,9,9,3.35,Yes,YES,No,5,1.0,No,18-22,No,Received
+1203,Fall2023,Education,Part-Time,16,8,1.73,Yes,No,No,1,2.0,No,28-35,Yes,Scholarship
